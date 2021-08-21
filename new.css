@@ -1,0 +1,85 @@
+.wrapper{
+  width: 100%;
+  height: 100px;
+  background-color: black;
+}
+.header{
+  width: 100%;
+  height: 150px;
+  background-color: red;
+}
+.header .logo{
+  width: 20%;
+  height: 150px;
+  background-color: blue;
+  float: left;
+}
+.header .banner{
+	width: 80%;
+	height: 150px;
+	background-color: yellow;
+	float: left;
+}
+.responsive{
+	height: 100%;
+	width: 100%;
+}
+a:hover {
+  background-color: yellow;
+}
+*{background-color: linen;
+  background-repeat: no-repeat;
+  background-position: right top;
+}
+.navbar{
+  padding: 25px 10px;
+  font-weight: 600;
+  outline: none;
+}
+  a:link{
+  background-color: linen;
+  color: black;
+  padding: 14px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+a.Review{
+  margin-left: 200px;
+}
+a.me{
+  background-color:white;
+}
+a.hire{
+  background-color:#b9c6c9; 
+  color: black;
+  margin-left: 150px;
+}
+p{
+  text-align: center;
+  color: green;
+  margin: 0px;
+  padding-bottom: 25px;
+}
+h1,h4{
+  text-align: center;
+}
+table.table{
+  margin-left: auto; 
+  margin-right: auto;
+  padding-top: 20px;
+
+  }
+  .Review{
+    margin-left: 900px;
+  }
+
+  .footer-basic {
+  padding-top:200px;
+  color:black;
+}
+.copyright {
+  text-align:center;
+  font-size: 13px;
+  color:#aaa;
+}
